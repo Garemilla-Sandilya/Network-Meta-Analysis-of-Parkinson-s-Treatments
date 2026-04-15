@@ -1,0 +1,16 @@
+League table (random effects model):
+                                                               
+        Bromocriptine  0.30 [-0.11;  0.71] -0.90 [-2.26;  0.46]
+  0.30 [-0.11;  0.71]          Cabergoline                    .
+ -0.52 [-1.46;  0.41] -0.82 [-1.85;  0.20]              Placebo
+  1.29 [ 0.26;  2.31]  0.99 [-0.11;  2.09]  1.81 [ 1.16;  2.46]
+ -0.05 [-0.68;  0.59] -0.35 [-1.10;  0.41]  0.48 [-0.48;  1.43]
+                                          
+  1.40 [ 0.03;  2.77] -0.00 [-0.68;  0.68]
+                    .                    .
+  1.83 [ 1.17;  2.49]  0.31 [-1.00;  1.62]
+          Pramipexole                    .
+ -1.33 [-2.40; -0.27]           Ropinirole
+
+Lower triangle: results from network meta-analysis (column vs row)
+Upper triangle: results from direct comparisons (row vs column)

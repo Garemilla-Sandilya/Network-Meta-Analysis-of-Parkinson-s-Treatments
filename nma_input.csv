@@ -1,0 +1,10 @@
+study,treat1,treat2,TE,seTE,studlab
+1,Placebo,Ropinirole,0.31000000000000005,0.6683838717383896,Study_1
+2,Placebo,Pramipexole,1.7,0.38221459940719166,Study_2
+3,Placebo,Pramipexole,2.3000000000000003,0.7177220910631078,Study_3
+3,Placebo,Bromocriptine,0.8999999999999999,0.6953481142564493,Study_3
+3,Pramipexole,Bromocriptine,-1.4000000000000001,0.6989878396653264,Study_3
+4,Ropinirole,Bromocriptine,0.35,0.4422001809135767,Study_4
+5,Ropinirole,Bromocriptine,-0.55,0.5546070681121906,Study_5
+6,Bromocriptine,Cabergoline,0.2999999999999998,0.27369508581631496,Study_6
+7,Bromocriptine,Cabergoline,0.30000000000000004,0.32015621187164245,Study_7
